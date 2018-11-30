@@ -1,0 +1,17 @@
+{
+	"name": "vuepress-issue-1043",
+	"version": "1.5.0-beta.2",
+	"description": "Repro of issue #1043",
+	"license": "MIT",
+	"author": "Dylan Broussard <deraw@outlook.fr>",
+	"scripts": {
+		"docs:dev": "vuepress dev docs",
+		"docs:build": "vuepress build docs"
+	},
+	"dependencies": {
+		"vue": "^2.5.17"
+	},
+	"devDependencies": {
+		"vuepress": "^0.14.5"
+	}
+}
